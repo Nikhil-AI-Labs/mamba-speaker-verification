@@ -41,7 +41,7 @@ text
 
 ### Installation
 
-git clone https://github.com/YOUR_USERNAME/mamba-speaker-verification.git
+git clone https://github.com/Nikhil-AI-Labs/mamba-speaker-verification.git
 cd mamba-speaker-verification
 pip install -r requirements.txt
 
@@ -106,11 +106,11 @@ text
 If you use this code, please cite:
 
 @misc{mamba-speaker-verification,
-author = {Your Name},
+author = {Nikhil Pathak},
 title = {Bidirectional Mamba for Speaker Verification},
 year = {2025},
 publisher = {GitHub},
-url = {https://github.com/YOUR_USERNAME/mamba-speaker-verification}
+url = {https://github.com/Nikhil-AI-Labs/mamba-speaker-verification}
 }
 
 text
